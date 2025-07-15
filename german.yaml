@@ -1,6 +1,6 @@
 # Author
 translation:
-  source: 'Fabian Ternis | https://github.com/michaelninder'
+  source: 'Fabian Ternis (https://fternis.de) | https://github.com/michaelninder'
   text_direction: "ltr" # Set to "rtl" for right-to-left languages
 
 # Navigation
@@ -8,19 +8,19 @@ nav:
   episodes: "Episodes"
   about: "Über Uns"
   ep1: "Warum brauchen wir HTTPS?"
-  ep2: "The keys"
+  ep2: "Die Schlüssel"
   ep3: "The handshake"
-  ep4: "HTTPS, SSL, TLS differences"
+  ep4: "HTTPS, SSL, TLS Unterschiede"
   ep5: "Certificate Authorities"
-  social: "Be a social cat"
-  more_comics: "Read more comics"
-  continue_reading: "Continue reading"
+  social: "Sei eine soziale Katze"
+  more_comics: "Mehr Lesen"
+  continue_reading: "Lesen fortsetzen"
 
 # Home page
 home:
-  title: "How HTTPS Works"
-  certificat_cta: "Start reading"
-  subtitle: "How HTTPS works ...in a comic!"
+  title: "Wie HTTPS funktioniert"
+  certificat_cta: "Lesen beginnen"
+  subtitle: "Wie HTTPS funktioniert ...in einem Comic!"
   p1: "Have you ever wondered why a lock icon appears on your browser URL bar? And why is it important? We did too, and this comic is for you!"
   p2: "Follow the adventures of Certificat, Browserbird, and Compugter as they explain why HTTPS is crucial for the future of the web and how it all works together."
   p3: "Don't let the bad crabs get you (you'll know what we mean in the comic). Get to know HTTPS and why it is essential to your privacy."
